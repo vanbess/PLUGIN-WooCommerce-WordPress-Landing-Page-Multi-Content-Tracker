@@ -42,7 +42,7 @@ Landing page/post edit screen:
 
 Placeholders in editor:
 
-![Alt Text](assets/landing-page-placholders-elementor.jpeg)
+![Alt Text](assets/landing-page-placeholders-elementor.jpeg)
 
 Button with CSS class lp_discover_cta:
 
