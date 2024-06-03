@@ -1,4 +1,4 @@
-## SBWC Landing Page Multi Content Tracker
+## PLUGIN: Landing Page Multi Content Tracker for WordPress
 
 ### Prerequisites
 - ACF (Advanced Custom Fields) __must__ be installed for this plugin to work
